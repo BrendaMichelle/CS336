@@ -1,8 +1,4 @@
 <?php
-$servername   = "127.0.0.1";
-$database = "HultonHotels";
-$username = "root";
-$password = "Pikapoke1!1";
 
 // Create connection
 //$conn = new mysqli($servername, $username, $password);
